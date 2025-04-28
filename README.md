@@ -1,6 +1,6 @@
 # 📊 Customer Segmentation and Sales Insights: Chips Category
 ---
-> 📢 **"Transforming raw data into targeted customer strategies — one chip at a time!"**
+**"Transforming raw data into targeted customer strategies — one chip at a time!"**
 <hr style="height:2px; border:none; background-color:#e1e4e8; margin:24px 0;">
 
 
@@ -77,7 +77,7 @@ The goal is to assist the **Category Manager** of a supermarket in identifying h
 
 - Implement **clustering algorithms** (e.g., K-Means) for advanced customer segmentation.
 - Build **predictive models** to forecast sales based on customer demographics.
-- Develop **interactive dashboards** using tools like **Plotly** or **Power BI** for real-time analytics.
+- Develop **interactive dashboards** using tools like **Tableau** or **Power BI** for real-time analytics.
 
 <hr style="height:2px; border:none; background-color:#e1e4e8; margin:24px 0;">
 
